@@ -35,8 +35,6 @@ Before you can run the Simple Image Converter, you need to ensure that you have 
    python converter.py
    ```
 
-   Replace `converter.py` with the name of your Python script.
-
 4. The application window will open, allowing you to use the image converter.
 
 ## Usage
