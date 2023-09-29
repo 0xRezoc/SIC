@@ -1,4 +1,4 @@
-# SimpleImageConverter
+# Simple Image Converter
 
 This is a simple image converter application built using Python and the `customtkinter` library. It allows users to select an image file and convert it to different formats such as JPG, WEBP, PNG, BMP, AVIF, and JPEG. The application provides a user-friendly graphical interface for this purpose.
 
