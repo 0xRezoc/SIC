@@ -48,7 +48,7 @@ selected_image = None
 
 # Create and configure widgets and packs
 frame = ctk.CTkFrame(master=root)
-frame.pack(pady=20, padx=60, fill="both", expand=True)
+frame.pack(pady=20, padx=20, fill="both", expand=True)
 
 select_button = ctk.CTkButton(master=frame, text="Select Image", command=select_image)
 select_button.pack(pady=20, padx=10)
